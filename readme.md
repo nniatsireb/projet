@@ -10,7 +10,7 @@ Réalisation d'un site d'événements (création et affichage d'événements).
 
 ## Fonctionnalités
 
-* Accueil (Liste des 5 derniers événements et des 5 derniers commentaires)
+* OK Accueil (Liste des 5 derniers événements et des 5 derniers commentaires)
 * Liste des événements
 * Détail d'un événement
 * Création d'un événement
@@ -28,7 +28,7 @@ Réalisation d'un site d'événements (création et affichage d'événements).
 
 ## Base de données
 
-### Tables
+### Tables ok
 
 * events (id, title, picture, description, created_at, started_at)
 * categories (id, name)

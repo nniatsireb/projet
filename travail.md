@@ -1,9 +1,9 @@
 ** ETAPES
 *ETAPE 1 Choisir le teme
-Famillle :  musée
-Loisirs: cinema
-bien etre
-Gamming
+Famillle :musée
+Loisirs:  cinema
+          Bien etre
+          Gamming
 
 ETAPE 2 faire l’architecture du site
 •	Layout : html et css perso
@@ -13,10 +13,10 @@ Vue relationnelle voir vue relationelle.
         Chaine de caracter gallery module 2 exercise gallery
 
 * Relationelle phpmyadmin
-One to many 	**  les plussieur  on le mets en uniques
+One to many 	**  les plussieurs  on le mets en uniques
 Base de donnees  + sur php myadmin
 Relier event structure vue relationnelle
  
-
+*githup
 
 
