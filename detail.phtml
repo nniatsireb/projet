@@ -1,7 +1,9 @@
 <article class="border-bottom py-3 mb-2">
     <header class="my-2">
         <h1><?= htmlspecialchars($event['title']) ?></h1>
+
         <small> le <?= $event['created_at'] ?></small>
+
     </header>
     <?= nl2br(htmlspecialchars($event['description'])) ?>
 </article>
