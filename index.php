@@ -9,7 +9,6 @@ $query = $db->prepare(
     FROM events'
 
 );
-var_dump($query);
 
 $query->execute();
 $events = $query->fetchAll();
